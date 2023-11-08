@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    font-family:Verdana;
+    text-shadow:0px 5px 5px blue, 0px 10px 5px yellow, 0px 15px 5px white;
+}
+body{
+    background: linear-gradient(cyan, blue, yellow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+table{
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+p{
+    margin-left: 10px;
+}
+label{
+    margin-left: 10px;
+}
+dl{
+    margin-left: 10px;
+}
+div{
+    margin: 50px;
+}

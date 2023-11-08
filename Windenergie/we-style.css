@@ -1,0 +1,37 @@
+h1{
+    text-shadow: 0px 5px 5px #1574b8, 0px 10px 5px #8ec2e7, 0px 15px 5px white;
+    text-align: center;
+    font-size: 50px;
+    font-family:Verdana;
+}
+
+.v{
+    margin-left: 10px;
+}
+
+table{
+    margin-left: 15px;
+}
+
+.p1{
+    margin-left: 10px;
+}
+
+label{
+    margin-left: 10px;
+}
+
+ul{
+    margin-left: 10px;
+}
+
+img{
+    margin-left: 10px;
+}
+
+body{
+    background: linear-gradient(white,#1574b8,rgb(20, 126, 20));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: x-large;
+}

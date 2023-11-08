@@ -1,0 +1,12 @@
+h1{
+    font-family: Verdana;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+}
+a{
+    color: rgba(0, 0, 0, 0);
+    text-align: center;
+}

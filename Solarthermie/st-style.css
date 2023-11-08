@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    font-family:Verdana;
+    text-shadow: 0px 5px 5px red, 0px 10px 5px orange, 0px 15px 5px white;
+}
+body{
+    background: linear-gradient(white, black, red);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+label{
+    color: orange;
+    margin-left: 10px;
+}
+p{
+    color: orange;
+    margin-left: 10px;
+}
+#e{
+    clear:right;
+}
+img{
+    margin-left: 10px;
+}

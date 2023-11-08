@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-family:Verdana;
+    text-shadow: 0px 5px 5px yellow, 0px 10px 5px blue, 0px 15px 5px white;
+}
+body{
+    background: linear-gradient(white, yellow, darkblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: x-large;
+}
+#top{
+    color: red;
+    font-size: x-large;
+}
+.bottom{
+    color: rgb(18, 219, 18);
+}
+#ar{
+    font-size: x-large;
+}
+#text{
+    font-size: large;
+}
+table{
+    margin-left: 15px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+label{
+    margin-left: 10px;
+}
