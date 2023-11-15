@@ -1,10 +1,10 @@
 h1{
     text-align: center;
     font-family:Verdana;
-    text-shadow: 0px 5px 5px coral, 0px 10px 5px peach, 0px 15px 5px white;
+    text-shadow: 0px 5px 5px #2D2926FF, 0px 10px 5px #E94B3CFF, 0px 15px 5px white;
 }
 body{
-    background: linear-gradient(coral, spiced_apple, peach );
+    background: linear-gradient(#2D2926FF, #E94B3CFF);
     background-repeat: no-repeat;
     font-size: x-large;
 }
