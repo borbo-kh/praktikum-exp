@@ -1,10 +1,10 @@
 h1{
     text-align: center;
     font-family:Verdana;
-    text-shadow:0px 5px 5px charcoal, 0px 10px 5px yellow, 0px 15px 5px white;
+    text-shadow:0px 5px 5px #4B878BFF, 0px 10px 5px #D01C1FFF, 0px 15px 5px white;
 }
 body{
-    background: linear-gradient(charcoal, yellow);
+    background: linear-gradient(#4B878BFF, #D01C1FFF);
     background-repeat: no-repeat;
     font-size: x-large;
 }
