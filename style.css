@@ -40,9 +40,8 @@ a{
 }
 
 body{
-    background: linear-gradient( navy, teal, rgb(255, 255, 255));
+    background: linear-gradient(#CBCE91FF, #A738DFF);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     font-family:Verdana;
     margin: 10px;
     padding: 10px;
