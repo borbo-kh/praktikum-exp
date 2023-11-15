@@ -6,7 +6,6 @@ h1{
 body{
     background: linear-gradient(charcoal, yellow);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     font-size: x-large;
 }
 table{
