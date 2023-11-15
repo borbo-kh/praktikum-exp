@@ -40,7 +40,7 @@ a{
 }
 
 body{
-    background: linear-gradient(#CBCE91FF, #A738DFF);
+    background: linear-gradient(blue, orange);
     background-repeat: no-repeat;
     font-family:Verdana;
     margin: 10px;
