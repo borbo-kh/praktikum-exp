@@ -6,6 +6,7 @@ h1{
 body{
     background: linear-gradient(#2D2926FF, #E94B3CFF);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     font-size: x-large;
 }
 #top{
